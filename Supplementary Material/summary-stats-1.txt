@@ -1,0 +1,1 @@
+./ReluplexCav2017/benchmarks/collisionDetectionNNet/reluBenchmark0.3205909729s_SAT.nnet, SAT, 195, 00:00:00, 4, 5

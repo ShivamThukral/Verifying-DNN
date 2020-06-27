@@ -1,0 +1,1 @@
+./ReluplexCav2017/benchmarks/collisionDetectionNNet/reluBenchmark0.479170084s_UNSAT.nnet, UNSAT, 361, 00:00:00, 6, 12
